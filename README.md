@@ -314,7 +314,7 @@ Real-time anomaly detection + Predictive maintenance alerts
 *Government exam landing page with improved UX & accessibility*
 
 <p align="center">
-<a href="http://shyamtherichardgithub.io/">
+<a href="http://shyamtherichard.github.io/">
   <img src="https://img.shields.io/badge/Live%20Demo-🚀%20View%20Site-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
