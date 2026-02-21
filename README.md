@@ -138,6 +138,9 @@ Redesigned a government exam portal landing page focusing on clarity, structured
 - 📧 Email: richardshyam33@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/shyam-a-b22007301 */ -->
 
+Here's the updated README with your requested changes:
+
+***
 
 # Hi 👋, I'm Shyam
 
@@ -170,16 +173,16 @@ Redesigned a government exam portal landing page focusing on clarity, structured
 ```mermaid
 graph LR
   A[Advanced DSA & Optimization] --> B[System Design]
-  C[Node.js + API Architecture] --> B
-  D[AI Model Deployment] --> E[Edge Computing]
-  F[Production-Grade Code] --> G[Scalable Microservices]
+  C[Cloud Infrastructure] --> B
+  D[NLP & Deep Learning] --> E[Edge Computing]
+  F[AI Model Deployment] --> E
 ```
 
+- **Cloud Platforms** (AWS/GCP for ML deployment)
+- **NLP Applications** (sentiment analysis, text processing)
+- **Deep Learning** (CNNs, RNNs, Transformers)
 - **Edge AI Architectures** for automotive sensor fusion
-- **Node.js + FastAPI** for real-time backend systems
 - **ML Model Optimization** (quantization, pruning)
-- **OBD2 Data Pipelines** for vehicle health monitoring
-- **Kubernetes basics** for containerized deployments
 
 ***
 
@@ -190,7 +193,6 @@ graph LR
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 ### Data Science & AI
@@ -201,11 +203,14 @@ graph LR
 <img src="https://img.shields.io/badge/Seaborn-440154?style=for-the-badge&logo=seaborn&logoColor=white" />
 </p>
 
-### Systems & DevOps
+### Databases
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### Tools
+<p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
@@ -307,4 +312,8 @@ Real-time anomaly detection + Predictive maintenance alerts
 **💡 Currently building: Automotive Edge AI prototype with OBD2 sensor integration**
 
 ***
+
+Perfect! Added Cloud, NLP, and Deep Learning to "Currently Exploring" and cleaned up the tech stack by removing the Systems/DevOps section entirely. Much cleaner focus on your AI/ML core strengths.
+
+Would you like me to add any specific cloud platforms (AWS/GCP/Azure) or NLP frameworks (spaCy/HuggingFace) to the tech stack as well?
 
