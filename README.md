@@ -65,17 +65,60 @@ Git | GitHub
 ## 📌 Featured Projects
 
 ### 🔹 Government Schemes & Exam Recommendation System
-Designed a profile-based eligibility filtering engine that recommends government schemes and competitive exams using structured multi-parameter rule matching logic.
+A profile-driven web application that recommends eligible Indian government schemes and competitive exams based on structured user inputs (age, gender, income, education, category).
+
+**Tech Used:** HTML, CSS, JavaScript  
+**Core Concept:** Multi-parameter rule-based eligibility filtering engine  
+**Highlights:**
+- Attribute-based matching logic
+- Scalable dataset structure (JSON-ready)
+- Designed for future backend & AI integration
+
+---
 
 ### 🔹 AI Mock Interview System
-Developed a speech-analysis system that detects filler words and hesitation patterns to generate interview confidence scoring.
+A speech-analysis based interview evaluation system that detects filler words and hesitation patterns to calculate a confidence score.
+
+**Tech Used:** Python, Speech Processing Logic  
+**Core Concept:** Real-time filler detection + rule-based confidence scoring  
+**Highlights:**
+- Custom filler word detection engine
+- Confidence evaluation logic
+- Structured scoring system for interview feedback
+
+---
+
+### 🔹 Heart Disease Prediction System
+A machine learning-based prediction model that analyzes patient health parameters to predict the likelihood of heart disease.
+
+**Tech Used:** Python, Pandas, NumPy, Scikit-learn  
+**Core Concept:** Supervised Classification Model  
+**Highlights:**
+- Data preprocessing & feature analysis
+- Model training & evaluation
+- Accuracy-based performance comparison
+
+---
 
 ### 🔹 CAR AI Edge Computing Architecture Concept
-Designed an intelligent automotive monitoring architecture integrating edge computing with predictive diagnostics logic.
+Designed a conceptual intelligent automotive monitoring system integrating edge computing with predictive diagnostics.
+
+**Core Focus:**
+- Edge processing architecture
+- Sensor-based data pipeline thinking
+- Predictive maintenance logic
+- Scalable AI-based vehicle monitoring vision
+
+---
 
 ### 🔹 TNPSC Government Services Landing Page Redesign
-Redesigned a government exam portal landing page with a clean minimal interface, structured information hierarchy, and improved usability for aspirants.
+Redesigned a government exam portal landing page focusing on clarity, structured hierarchy, and accessibility.
 
+**Tech Used:** HTML, CSS  
+**Highlights:**
+- Minimal government-style UI
+- Improved content hierarchy
+- Clear call-to-action structure
 ---
 
 ## 📈 GitHub Stats
