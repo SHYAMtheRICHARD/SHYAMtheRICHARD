@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm SHYAM</h1>
+<!-- <h1 align="center">Hello 👋, I'm SHYAM</h1>
 <h3 align="center">A passionate Engineer who is pursuing artificial intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamtherichard&label=Profile%20views&color=0e75b6&style=flat" alt="shyamtherichard" /> </p>
@@ -19,4 +19,78 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamtherichard&show_icons=true&locale=en" alt="shyamtherichard" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamtherichard&" alt="shyamtherichard" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamtherichard&" alt="shyamtherichard" /></p> -->
+
+<h1 align="center">Hi 👋, I'm Shyam</h1>
+<h3 align="center">3rd Year Engineering Student | AI & Data Science Focused | Backend & System Design Enthusiast</h3>
+
+---
+
+## 🚀 About Me
+
+- 🎓 3rd Year Engineering Student
+- 🤖 Focused on Artificial Intelligence & Intelligent Systems
+- 🧠 Strong in Data Structures, Logic Building & Algorithmic Thinking
+- ⚙ Interested in scalable backend systems and AI-driven applications
+- 💼 Preparing for software & AI-based roles
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Data Structures & Algorithm Optimization
+- Backend Development (Node.js, API Architecture)
+- System Design Fundamentals
+- AI Model Evaluation & Performance Optimization
+- Writing scalable and maintainable production-level code
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming
+C | C++ | Java | Python
+
+### 📊 Data & AI
+Pandas | NumPy | Seaborn | LLM Integration | Rule-Based Filtering Systems
+
+### 🗄 Databases
+MySQL
+
+### ⚙ Tools
+Git | GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Government Schemes & Exam Recommendation System
+Designed a profile-based eligibility filtering engine that recommends government schemes and competitive exams using structured multi-parameter rule matching logic.
+
+### 🔹 AI Mock Interview System
+Developed a speech-analysis system that detects filler words and hesitation patterns to generate interview confidence scoring.
+
+### 🔹 CAR AI Edge Computing Architecture Concept
+Designed an intelligent automotive monitoring architecture integrating edge computing with predictive diagnostics logic.
+
+### 🔹 TNPSC Government Services Landing Page Redesign
+Redesigned a government exam portal landing page with a clean minimal interface, structured information hierarchy, and improved usability for aspirants.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shyamtherichard&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamtherichard&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: richardshyam33@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/shyam-a-b22007301
