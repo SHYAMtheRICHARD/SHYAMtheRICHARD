@@ -49,7 +49,7 @@
 ## 🛠 Tech Stack
 
 ### 💻 Programming
-C | C++ | Java | Python
+C | C++ | Java | Python 
 
 ### 📊 Data & AI
 Pandas | NumPy | Seaborn | LLM Integration | Rule-Based Filtering Systems
@@ -138,11 +138,9 @@ Redesigned a government exam portal landing page focusing on clarity, structured
 - 📧 Email: richardshyam33@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/shyam-a-b22007301 */ -->
 
-Here's the updated README with your requested changes:
 
-***
 
-# Hi 👋, I'm Shyam
+# Holaa, I'm Shyam
 
 ## 3rd Year BTech | AI & Data Science | Backend Systems & Automotive AI Enthusiast
 
@@ -201,17 +199,6 @@ graph LR
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-440154?style=for-the-badge&logo=seaborn&logoColor=white" />
-</p>
-
-### Databases
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### Tools
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ***
@@ -311,9 +298,4 @@ Real-time anomaly detection + Predictive maintenance alerts
 
 **💡 Currently building: Automotive Edge AI prototype with OBD2 sensor integration**
 
-***
-
-Perfect! Added Cloud, NLP, and Deep Learning to "Currently Exploring" and cleaned up the tech stack by removing the Systems/DevOps section entirely. Much cleaner focus on your AI/ML core strengths.
-
-Would you like me to add any specific cloud platforms (AWS/GCP/Azure) or NLP frameworks (spaCy/HuggingFace) to the tech stack as well?
 
