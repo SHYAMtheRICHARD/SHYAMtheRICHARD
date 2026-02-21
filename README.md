@@ -218,97 +218,121 @@ graph LR
 
 
 ***
-🔥 Featured Projects
-🔹 GovScheme Recommender
-Profile-driven web app recommending 200+ Indian government schemes & competitive exams
+## 🔥 Featured Projects
 
-<p align="center"> <a href="https://miniprojectbyshyamandco-github-io.onrender.com/"> <img src="https://img.shields.io/badge/Live%20Demo-🚀%20View%20App-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
-text
+### 🔹 **GovScheme Recommender** 
+*Profile-driven web app recommending 200+ Indian government schemes & competitive exams*
+
+<p align="center">
+<a href="https://miniprojectbyshyamandco-github-io.onrender.com/">
+  <img src="https://img.shields.io/badge/Live%20Demo-🚀%20View%20App-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
+
+```
 User Inputs → Multi-Parameter Rules → Personalized Recommendations
 (Age + Gender + Income + Education + Category) → JSON Pipeline → Web Dashboard
-Tech: HTML, CSS, JavaScript
-Core: Rule-based eligibility filtering engine
+```
 
-<details> <summary>🎯 Highlights</summary>
-Attribute-based matching logic (15+ parameters)
+**Tech:** HTML, CSS, JavaScript  
+**Core:** Rule-based eligibility filtering engine
 
-Scalable JSON dataset structure
+<details>
+<summary>🎯 Highlights</summary>
 
-Backend & AI integration ready
-
-Responsive web interface
+- Attribute-based matching logic (15+ parameters)
+- Scalable JSON dataset structure  
+- Backend & AI integration ready
+- Responsive web interface
 
 </details>
-🔹 AI Mock Interview Analyzer
-Real-time speech analysis for confidence scoring & feedback
 
-text
+***
+
+### 🔹 **AI Mock Interview Analyzer**
+*Real-time speech analysis for confidence scoring & feedback*
+
+```
 Audio → Filler Detection ("um", "uh", "like") → Hesitation → Confidence Score (0-100)
-Tech: Python, Speech Processing
-Accuracy: 92% filler detection
+```
 
-<details> <summary>🎯 Highlights</summary>
-Custom filler word detection engine
+**Tech:** Python, Speech Processing  
+**Accuracy:** 92% filler detection
 
-Confidence evaluation algorithm
+<details>
+<summary>🎯 Highlights</summary>
 
-Structured feedback scoring system
-
-Real-time speech analysis pipeline
-
-</details>
-🔹 Heart Disease ML Predictor
-Ensemble classification with feature importance visualization
-
-Model	Accuracy	Precision	F1-Score
-Random Forest	89.2%	87.5%	88.1%
-XGBoost	91.4%	89.8%	90.6%
-Tech: Python, Pandas, NumPy, Scikit-learn
-Core: Supervised classification pipeline
-
-<details> <summary>🎯 Highlights</summary>
-Comprehensive data preprocessing
-
-Multiple model evaluation & comparison
-
-Feature importance via SHAP analysis
-
-Cross-validation metrics
+- Custom filler word detection engine
+- Confidence evaluation algorithm  
+- Structured feedback scoring system
+- Real-time speech analysis pipeline
 
 </details>
-🔹 Automotive Edge AI Architecture
-Conceptual edge computing system for predictive vehicle diagnostics
 
-text
+***
+
+### 🔹 **Heart Disease ML Predictor**
+*Ensemble classification with feature importance visualization*
+
+| Model | Accuracy | Precision | F1-Score |
+|-------|----------|-----------|----------|
+| Random Forest | 89.2% | 87.5% | 88.1% |
+| XGBoost | 91.4% | 89.8% | 90.6% |
+
+**Tech:** Python, Pandas, NumPy, Scikit-learn  
+**Core:** Supervised classification pipeline
+
+<details>
+<summary>🎯 Highlights</summary>
+
+- Comprehensive data preprocessing
+- Multiple model evaluation & comparison
+- Feature importance via SHAP analysis
+- Cross-validation metrics
+
+</details>
+
+***
+
+### 🔹 **Automotive Edge AI Architecture**
+*Conceptual edge computing system for predictive vehicle diagnostics*
+
+```
 OBD2 Sensors → Edge Processing → ML Inference → Cloud Sync
 Real-time anomaly detection + Predictive maintenance alerts
-Core Focus:
+```
 
-Edge computing architecture design
+**Core Focus:**
+- Edge computing architecture design
+- Sensor data fusion pipelines
+- Predictive maintenance algorithms
+- Scalable vehicle monitoring vision
 
-Sensor data fusion pipelines
+***
 
-Predictive maintenance algorithms
+### 🔹 **TNPSC Portal Redesign**
+*Government exam landing page with improved UX & accessibility*
 
-Scalable vehicle monitoring vision
+<p align="center">
+<a href="http://shyamtherichardgithub.io/">
+  <img src="https://img.shields.io/badge/Live%20Demo-🚀%20View%20Site-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
 
-🔹 TNPSC Portal Redesign
-Government exam landing page with improved UX & accessibility
+**Tech:** HTML, CSS  
+**Core:** Information architecture optimization
 
-<p align="center"> <a href="http://shyamtherichardgithub.io/"> <img src="https://img.shields.io/badge/Live%20Demo-🚀%20View%20Site-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
-Tech: HTML, CSS
-Core: Information architecture optimization
+<details>
+<summary>🎯 Highlights</summary>
 
-<details> <summary>🎯 Highlights</summary>
-Minimalist government-style UI
-
-Optimized content hierarchy
-
-Clear call-to-action structure
-
-Mobile-responsive design
+- Minimalist government-style UI
+- Optimized content hierarchy
+- Clear call-to-action structure
+- Mobile-responsive design
 
 </details>
+
+***
 
 ## 📊 GitHub Analytics
 
