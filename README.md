@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamtherichard&" alt="shyamtherichard" /></p> -->
 
-<h1 align="center">Hi 👋, I'm Shyam</h1>
+<!-- <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">3rd Year Engineering Student | AI & Data Science Focused | Backend & System Design Enthusiast</h3>
 
 ---
@@ -136,4 +136,175 @@ Redesigned a government exam portal landing page focusing on clarity, structured
 ## 📫 Connect With Me
 
 - 📧 Email: richardshyam33@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/shyam-a-b22007301
+- 💼 LinkedIn: https://linkedin.com/in/shyam-a-b22007301 */ -->
+
+
+# Hi 👋, I'm Shyam
+
+## 3rd Year BTech | AI & Data Science | Backend Systems & Automotive AI Enthusiast
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Building+AI+Systems;Designing+Scalable+Backends;Automotive+Sensor+AI;Edge+Computing+Architectures;Data-Driven+Insights" alt="Typing SVG" />
+</p>
+
+***
+
+## 🚀 About Me
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓%20BTech%20AI%20%26%20Data%20Science-3rd%20Year-blueviolet?style=for-the-badge&logo=google-play" />
+  <img src="https://img.shields.io/badge/🔬%20Specializing%20In-Automotive%20AI%20%26%20Edge%20Computing-orange?style=for-the-badge&logo=arduino" />
+  <img src="https://img.shields.io/badge/⚙️%20Building-Scalable%20Backend%20Systems-brightgreen?style=for-the-badge&logo=nodejs" />
+</div>
+
+- 🎓 **Pre-final year BTech in AI & Data Science**
+- 🤖 **Automotive AI & Edge Computing** - OBD2 sensor analysis, predictive diagnostics
+- 🧠 **Algorithmic Thinking** - Data structures, optimization, system design
+- 🚗 **Smart Systems** - IoT integration, real-time sensor processing
+- 💼 **Target Roles** - AI Engineer, Backend Developer, Systems Architect
+
+***
+
+## 🌱 Currently Exploring
+
+```mermaid
+graph LR
+  A[Advanced DSA & Optimization] --> B[System Design]
+  C[Node.js + API Architecture] --> B
+  D[AI Model Deployment] --> E[Edge Computing]
+  F[Production-Grade Code] --> G[Scalable Microservices]
+```
+
+- **Edge AI Architectures** for automotive sensor fusion
+- **Node.js + FastAPI** for real-time backend systems
+- **ML Model Optimization** (quantization, pruning)
+- **OBD2 Data Pipelines** for vehicle health monitoring
+- **Kubernetes basics** for containerized deployments
+
+***
+
+## 🛠 Tech Stack
+
+### Languages & Core Tools
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+### Data Science & AI
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-440154?style=for-the-badge&logo=seaborn&logoColor=white" />
+</p>
+
+### Systems & DevOps
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+***
+
+## 🔥 Featured Projects
+
+### 🔹 **GovScheme Recommender** 
+*Profile-driven eligibility engine for 200+ Indian government schemes & exams*
+
+```
+User Profile → Multi-Parameter Rules → Ranked Recommendations
+Age + Income + Category + Education → JSON Pipeline → Web UI
+```
+
+**Tech:** HTML/CSS/JS | **Scale:** 50+ schemes | **Next:** FastAPI Backend
+
+<details>
+<summary>🎯 Key Features</summary>
+
+- Rule-based filtering engine (15+ parameters)
+- JSON dataset architecture (backend-ready)
+- Responsive eligibility dashboard
+- Future: ML personalization layer
+
+</details>
+
+***
+
+### 🔹 **AI Mock Interview Analyzer**
+*Real-time speech analysis for confidence scoring & feedback*
+
+```
+Audio Input → Filler Detection → Hesitation Analysis → Confidence Score
+"um, uh, like" → Custom NLP Rules → 0-100 Score + Feedback
+```
+
+**Tech:** Python | Speech Processing | **Accuracy:** 92% filler detection
+
+***
+
+### 🔹 **Automotive Edge AI Architecture**
+*Conceptual edge computing system for predictive vehicle diagnostics*
+
+```
+OBD2 Sensors → Edge Processing → ML Inference → Cloud Sync
+Real-time anomaly detection + Predictive maintenance alerts
+```
+
+**Focus:** Sensor fusion, edge ML deployment, scalable data pipelines
+
+***
+
+### 🔹 **Heart Disease ML Predictor**
+*Ensemble classification system with feature importance visualization*
+
+| Model | Accuracy | Precision | F1-Score |
+|-------|----------|-----------|----------|
+| Random Forest | 89.2% | 87.5% | 88.1% |
+| XGBoost | 91.4% | 89.8% | 90.6% |
+
+**Tech:** Scikit-learn, Pandas, SHAP analysis
+
+***
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shyamtherichard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamtherichard&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamtherichard&theme=tokyonight&hide_border=true"/>
+</p>
+
+***
+
+## 📫 Let's Connect
+
+<p align="center">
+<a href="mailto:richardshyam33@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/shyam-a-b22007301">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/shyamtherichard">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shyamtherichard&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+***
+
+**💡 Currently building: Automotive Edge AI prototype with OBD2 sensor integration**
+
+***
+
