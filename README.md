@@ -218,8 +218,7 @@ graph LR
 
 
 ***
-
-## 🔥 Featured Projects
+🔥 Featured Projects
 🔹 GovScheme Recommender
 Profile-driven web app recommending 200+ Indian government schemes & competitive exams
 
@@ -240,6 +239,59 @@ Backend & AI integration ready
 Responsive web interface
 
 </details>
+🔹 AI Mock Interview Analyzer
+Real-time speech analysis for confidence scoring & feedback
+
+text
+Audio → Filler Detection ("um", "uh", "like") → Hesitation → Confidence Score (0-100)
+Tech: Python, Speech Processing
+Accuracy: 92% filler detection
+
+<details> <summary>🎯 Highlights</summary>
+Custom filler word detection engine
+
+Confidence evaluation algorithm
+
+Structured feedback scoring system
+
+Real-time speech analysis pipeline
+
+</details>
+🔹 Heart Disease ML Predictor
+Ensemble classification with feature importance visualization
+
+Model	Accuracy	Precision	F1-Score
+Random Forest	89.2%	87.5%	88.1%
+XGBoost	91.4%	89.8%	90.6%
+Tech: Python, Pandas, NumPy, Scikit-learn
+Core: Supervised classification pipeline
+
+<details> <summary>🎯 Highlights</summary>
+Comprehensive data preprocessing
+
+Multiple model evaluation & comparison
+
+Feature importance via SHAP analysis
+
+Cross-validation metrics
+
+</details>
+🔹 Automotive Edge AI Architecture
+Conceptual edge computing system for predictive vehicle diagnostics
+
+text
+OBD2 Sensors → Edge Processing → ML Inference → Cloud Sync
+Real-time anomaly detection + Predictive maintenance alerts
+Core Focus:
+
+Edge computing architecture design
+
+Sensor data fusion pipelines
+
+Predictive maintenance algorithms
+
+Scalable vehicle monitoring vision
+
 🔹 TNPSC Portal Redesign
 Government exam landing page with improved UX & accessibility
 
@@ -257,44 +309,6 @@ Clear call-to-action structure
 Mobile-responsive design
 
 </details>
-
-***
-
-### 🔹 **AI Mock Interview Analyzer**
-*Real-time speech analysis for confidence scoring & feedback*
-
-```
-Audio Input → Filler Detection → Hesitation Analysis → Confidence Score
-"um, uh, like" → Custom NLP Rules → 0-100 Score + Feedback
-```
-
-**Tech:** Python | Speech Processing | **Accuracy:** 92% filler detection
-
-***
-
-### 🔹 **Automotive Edge AI Architecture**
-*Conceptual edge computing system for predictive vehicle diagnostics*
-
-```
-OBD2 Sensors → Edge Processing → ML Inference → Cloud Sync
-Real-time anomaly detection + Predictive maintenance alerts
-```
-
-**Focus:** Sensor fusion, edge ML deployment, scalable data pipelines
-
-***
-
-### 🔹 **Heart Disease ML Predictor**
-*Ensemble classification system with feature importance visualization*
-
-| Model | Accuracy | Precision | F1-Score |
-|-------|----------|-----------|----------|
-| Random Forest | 89.2% | 87.5% | 88.1% |
-| XGBoost | 91.4% | 89.8% | 90.6% |
-
-**Tech:** Scikit-learn, Pandas, SHAP analysis
-
-***
 
 ## 📊 GitHub Analytics
 
