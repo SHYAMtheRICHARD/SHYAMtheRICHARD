@@ -214,42 +214,47 @@ graph LR
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-#### Databases
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-#### Tools
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
 ***
 
-Would you like me to adjust the badge ordering or add any specific project links to these tech badges?
 
 ***
 
 ## 🔥 Featured Projects
+🔹 GovScheme Recommender
+Profile-driven web app recommending 200+ Indian government schemes & competitive exams
 
-### 🔹 **GovScheme Recommender** 
-*Profile-driven eligibility engine for 200+ Indian government schemes & exams*
+<p align="center"> <a href="https://miniprojectbyshyamandco-github-io.onrender.com/"> <img src="https://img.shields.io/badge/Live%20Demo-🚀%20View%20App-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+text
+User Inputs → Multi-Parameter Rules → Personalized Recommendations
+(Age + Gender + Income + Education + Category) → JSON Pipeline → Web Dashboard
+Tech: HTML, CSS, JavaScript
+Core: Rule-based eligibility filtering engine
 
-```
-User Profile → Multi-Parameter Rules → Ranked Recommendations
-Age + Income + Category + Education → JSON Pipeline → Web UI
-```
+<details> <summary>🎯 Highlights</summary>
+Attribute-based matching logic (15+ parameters)
 
-**Tech:** HTML/CSS/JS | **Scale:** 50+ schemes | **Next:** FastAPI Backend
+Scalable JSON dataset structure
 
-<details>
-<summary>🎯 Key Features</summary>
+Backend & AI integration ready
 
-- Rule-based filtering engine (15+ parameters)
-- JSON dataset architecture (backend-ready)
-- Responsive eligibility dashboard
-- Future: ML personalization layer
+Responsive web interface
+
+</details>
+🔹 TNPSC Portal Redesign
+Government exam landing page with improved UX & accessibility
+
+<p align="center"> <a href="http://shyamtherichardgithub.io/"> <img src="https://img.shields.io/badge/Live%20Demo-🚀%20View%20Site-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+Tech: HTML, CSS
+Core: Information architecture optimization
+
+<details> <summary>🎯 Highlights</summary>
+Minimalist government-style UI
+
+Optimized content hierarchy
+
+Clear call-to-action structure
+
+Mobile-responsive design
 
 </details>
 
